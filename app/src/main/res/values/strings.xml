@@ -1,0 +1,14 @@
+<resources>
+    <string name="app_name">Luqu</string>
+    <string name="bottom_item_image">图片</string>
+    <string name="bottom_item_video">视频</string>
+    <string name="bottom_item_text">段子</string>
+    <string name="quanwen">全文</string>
+    <string name="shouqi">收起</string>
+    <string name="get_error">数据获取失败，请检查网络\n点击屏幕重试</string>
+    <string name="no_net">当前无网络连接\n点击屏幕重试</string>
+    <string name="image">趣图</string>
+    <string name="video">视频</string>
+    <string name="change_another">换一批</string>
+    <string name="text">段子</string>
+</resources>
